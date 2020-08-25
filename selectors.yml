@@ -1,0 +1,24 @@
+price:
+    css: 'td.a-span12 span[id="priceblock_ourprice"]'
+    xpath: null
+    type: Text
+product:
+    css: 'h1.a-size-large span[id="productTitle"]'
+    xpath: null
+    type: Text
+md_price:
+    css: 'span.price-new span[itemprop="price"]'
+    xpath: null
+    type: Text
+md_product:
+    css: 'h1[itemprop="name"]'
+    xpath: null
+    type: Text
+vc_name:
+    css: 'h1[itemprop="name"]'
+    xpath: null
+    type: Text
+vc_price:
+    css: li.product-price
+    xpath: null
+    type: Text
